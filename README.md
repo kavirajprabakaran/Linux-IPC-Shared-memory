@@ -23,6 +23,7 @@ Execute the C Program for the desired output.
 ## Write a C program that illustrates two processes communicating using shared memory.
 
 
+<img width="977" height="761" alt="Screenshot 2026-05-13 094916" src="https://github.com/user-attachments/assets/c32d142a-52ae-43f8-9c38-05e1be865db3" />
 
 
 
